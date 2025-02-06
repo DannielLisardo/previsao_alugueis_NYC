@@ -1,4 +1,5 @@
 # 📌 Previsão de Preços de Aluguel em NYC
+![Netflix Logo]([https://github.com/DannielLisardo/portfolio.netflix/blob/main/logo.png](https://github.com/DannielLisardo/previsao_alugueis_NYC/blob/main/NYC))
 
 ## 📊 Sobre o Projeto
 Este projeto tem como objetivo prever o preço de aluguel de imóveis na cidade de Nova York utilizando técnicas de análise de dados e Machine Learning. A análise abrange a identificação de padrões, tratamento de outliers e desenvolvimento de um modelo preditivo.
