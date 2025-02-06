@@ -61,13 +61,6 @@ Esses valores indicam que o modelo pode prever preços com uma margem de erro ac
 
 ---
 
-## 📌 Próximos Passos
-🔹 Testar outros algoritmos de regressão como XGBoost e Gradient Boosting  
-🔹 Refinar a seleção de variáveis para melhorar a precisão  
-🔹 Implementar técnicas de Feature Engineering para enriquecer os dados  
-
----
-
-📍 **Autor:** _[Danniel Lisardo]_  
+📍 **Autor:** Danniel Lisardo 
 📍 **Tecnologias:** Python, Pandas, Scikit-Learn, Seaborn, Matplotlib  
 📍 **Dataset:** Dados de aluguel de NYC
